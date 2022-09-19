@@ -7,4 +7,4 @@
  多媒体:  
       音频适配器                                        Intel Kaby Lake HDMI @ Intel Cannon Point PCH - cAVS (Audio, Voice, Speech) [B0]  
       音频适配器                                        Realtek ALC255 @ Intel Cannon Point PCH - cAVS (Audio, Voice, Speech) [B0]  
-https://github.com/RobinUgly/OptiPlex7070/blob/main/%E9%AA%A8%E5%A4%B4.jpg
+
