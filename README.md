@@ -1,4 +1,6 @@
 # OptiPlex7070  
+支持MacOS 11、12、13
+14可能崩
 台式机（大机箱）  
       处理器名称                                        HexaCore Intel Core i5-9500, 4300 MHz (43 x 100)  
       主板名称                                          Dell OptiPlex 7070  
